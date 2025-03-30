@@ -6,12 +6,12 @@
 
 <h3 align="left">👩‍💻 About Me :</h3>
 <img align="left" height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg" />
-<p align="left">👋 I'm Mohamed Ali Romdhani, a 22-year-old Cloud Computing student at ESPRIT in Tunisia. I'm passionate about DevOps practices, containerization, and infrastructure automation. I also enjoy mobile app development📱and AI (Artificial Intelligence)🧠. You'll often find me immersed in code or configuring cloud resources. 💻<br><br>I'm currently:<br><br>- 🔭 Studying Cloud Computing and expanding my DevOps skills<br>- 🌱 Learning Azure, OpenStack, and Kubernetes orchestration<br>- 💬 Working with Docker, K8s, Ansible, and Jenkins<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile!</p>
+<p align="left">👋 I'm Mohamed Ali Romdhani, a 23-year-old Cloud Computing student at ESPRIT in Tunisia. I'm passionate about DevOps practices, containerization, and infrastructure automation. I also enjoy mobile app development📱and AI (Artificial Intelligence)🧠. You'll often find me immersed in code or configuring cloud resources. 💻<br><br>I'm currently:<br><br>- 🔭 Studying Cloud Computing and expanding my DevOps skills<br>- 🌱 Learning Azure, OpenStack, and Kubernetes orchestration<br>- 💬 Working with Docker, K8s, Ansible, and Jenkins<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile!</p>
 
 <img align="left" src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /><br>
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&random=true&width=200&lines=Let's+Connect..!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&repeat=false&random=true&width=200&lines=Let's+Connect..!" alt="Typing SVG" /></a>
 </a>
 
 </p>
