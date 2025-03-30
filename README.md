@@ -1,47 +1,66 @@
 <!--
-**romdhanimedali28/romdhanimedali28** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
+romdhanimedali28/romdhanimedali28 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Mohamed Ali Romdhani</h1>
-<h3 align="center">Cloud Computing Student | DevOps Enthusiast</h3>
 
-- 🔭 I'm currently studying Cloud Computing at ESPRIT
-- 🌱 I'm currently learning Azure and expanding my DevOps skills
-- 💬 Ask me about Docker, Kubernetes, Ansible, and Jenkins
-- 📫 How to reach me: romdhanimohamedali.28@gmail.com
-- 🔗 Connect with me: <a href="https://linkedin.com/in/romdhanimohamed-ali-a681a9183" target="blank">LinkedIn</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mohamed+Ali+Romdhani;Cloud+Computing+Student;DevOps+Enthusiast;From+Tunisia" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-</p>
+<div align="center">
+  <img height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg" alt="Profile Image" />
+</div>
 
-### Featured Projects
-- 🌐 OpenStack & K8s Infrastructure - Academic deployment with CI/CD pipeline
-- 📱 ADAS System - Advanced Driver Assistance System with AI detection
-- 🚀 CI/CD Pipeline Demo with Jenkins, Docker, and Kubernetes (Coming Soon)
+## 👨‍💻 About Me
+I'm a 22-year-old Cloud Computing student at ESPRIT passionate about DevOps and Cloud technologies. When I'm not automating infrastructure, you can find me:
+- 🎵 Listening to music
+- 📺 Watching anime and series
+- ☕ Automating everything (even my coffee machine!)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romdhanimedali28&show_icons=true&locale=en&layout=compact" alt="romdhanimedali28" /></p>
+## 🔥 Core Skills
+<div align="left">
+  <h3>Cloud & DevOps</h3>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" alt="docker"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="40" alt="ansible"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" alt="terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" height="40" alt="openstack"/>
+  
+  <h3>Programming</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romdhanimedali28&show_icons=true&locale=en" alt="romdhanimedali28" /></p>
+## 🏆 Certifications
+✅ Docker Training Course (KodeKloud)  
+✅ Kubernetes for the Absolute Beginners (KodeKloud)  
+✅ Learn Ansible Basics (KodeKloud)  
+✅ Jenkins Certification (KodeKloud)  
+✅ DevOps Pre-Requisite Course (KodeKloud)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romdhanimedali28" alt="romdhanimedali28" /></a> </p>
+## 🚀 Featured Projects
+- **OpenStack & K8s Infrastructure** - Academic deployment with CI/CD pipeline
+- **ADAS System** - Advanced Driver Assistance with AI detection
+- **CI/CD Pipeline Demo** - Jenkins, Docker, Kubernetes integration (Coming Soon)
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  ✅ Docker Training Course (KodeKloud)<br>
-  ✅ Kubernetes for the Absolute Beginners (KodeKloud)<br>
-  ✅ Learn Ansible Basics (KodeKloud)<br>
-  ✅ Jenkins (KodeKloud)<br>
-  ✅ DevOps Pre-Requisite Course (KodeKloud)
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romdhanimedali28&show_icons=true&theme=algolia" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romdhanimedali28&layout=compact&theme=algolia" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romdhanimedali28&theme=algolia" width="90%"/>
+</div>
+
+## 📫 Let's Connect
+<div align="left">
+  <a href="https://linkedin.com/in/romdhanimohamed-ali-a681a9183">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:romdhanimohamedali.28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+</div>
+
+<img src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
