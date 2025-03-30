@@ -1,85 +1,100 @@
 # Hi there! 👋 I'm Mohamed Ali Romdhani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Cloud+Computing+Student;DevOps+Enthusiast;Mobile+App+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Computing+Student+@ESPRIT;DevOps+Engineer+in+Training;Kubernetes+Enthusiast;OpenStack+Specialist)](https://git.io/typing-svg)
 
-<img align="left" src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img align="left" src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
-<h3 align="left">👩‍💻 About Me :</h3>
-<img align="left" height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg" />
-<p align="left">👋 I'm Mohamed Ali Romdhani, a 22-year-old Cloud Computing student at ESPRIT in Tunisia. I'm passionate about DevOps practices, containerization, and infrastructure automation. I also enjoy mobile app development📱and AI (Artificial Intelligence)🧠. You'll often find me immersed in code or configuring cloud resources. 💻<br><br>I'm currently:<br><br>- 🔭 Studying Cloud Computing and expanding my DevOps skills<br>- 🌱 Learning Azure, OpenStack, and Kubernetes orchestration<br>- 💬 Working with Docker, K8s, Ansible, and Jenkins<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile!</p>
-<p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&random=true&width=200&lines=Let's+Connect..!" alt="Typing SVG" /></a>
-</a>
+<h3 align="left">☁️  About Me :</h3>
+<img align="left" height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg"  />
+<p align="left">👋 I'm Mohamed Ali Romdhani, a Cloud Computing student at ESPRIT specializing in DevOps and cloud infrastructure. My passion lies in building scalable systems using cutting-edge technologies.<br><br>
 
-</p>
+🔭 Currently working on:
+- Automating deployments with Helm charts
+- OpenStack cloud infrastructure projects
+- Kubernetes operator development<br><br>
+
+🌱 Learning:
+- Advanced Kubernetes patterns
+- Cloud-native security
+- GitOps workflows<br><br>
+
+💡 Fun fact: I once automated my morning coffee routine with a Raspberry Pi!</p>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/romdhani-mohamed-ali-a681a9183/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo" />
-</a>
-<a href="mailto:romdhanimohamedali.28@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
-</a>
+   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="linkedin"/>
+  </a>
+  <a href="mailto:romdhanimohamedali.28@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" alt="gmail"/>
+  </a>
+  <a href="https://github.com/romdhanimedali28">
+   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="github"/>
+  </a>
 </div>
 
-<img align="left" src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /><br>
+<img src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
-## 🛠️ Tech Stack
+## 🛠️ Cloud & DevOps Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="40" alt="openstack logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm logo" />
+  <h3>Cloud Platforms</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="40" alt="openstack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
+  
+  <h3>Containerization & Orchestration</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm"/>
+  
+  <h3>Infrastructure as Code</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform"/>
+  
+  <h3>CI/CD</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions"/>
+  
+  <h3>Programming</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang"/>
 </div>
 
+## 📜 Cloud Certifications
 
-## 📜 Certifications
-
-- ✅ Docker Training Course (KodeKloud)
-- ✅ Kubernetes for the Absolute Beginners (KodeKloud)
-- ✅ Learn Ansible Basics (KodeKloud)
-- ✅ Jenkins (KodeKloud)
-- ✅ DevOps Pre-Requisite Course (KodeKloud)
+<div align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25" alt="docker"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="25" alt="kubernetes"/>
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" height="25" alt="ansible"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="25" alt="jenkins"/>
+  <img src="https://img.shields.io/badge/-DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" height="25" alt="devops"/>
+</div>
 
 ## 🚀 Featured Projects
 
-- 🌐 **OpenStack & K8s Infrastructure** - Academic deployment with CI/CD pipeline
-- 📱 **ADAS System** - Advanced Driver Assistance System with AI detection
-- 🚀 **CI/CD Pipeline Demo** with Jenkins, Docker, and Kubernetes (Coming Soon)
+- **☁️ OpenStack Cloud Deployment**  
+  Automated infrastructure provisioning with Heat templates and Ansible playbooks
 
-<img src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+- **⚓ Helm Chart Repository**  
+  Custom Helm charts for application deployments on Kubernetes
 
-## 📊 GitHub Stats
+- **🤖 AI-Powered ADAS System**  
+  Real-time object detection using TensorFlow and OpenCV
+
+- **🔄 CI/CD Pipeline**  
+  Jenkins pipeline for Spring Boot applications with Kubernetes deployment
+
+<img src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romdhanimedali28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="175" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=romdhanimedali28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="175" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=romdhanimedali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=romdhanimedali28&show_icons=true&theme=algolia&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romdhanimedali28&layout=compact&theme=algolia&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romdhanimedali28&theme=algolia&hide_border=true" width="90%"/>
 </div>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romdhanimedali28" alt="romdhanimedali28" /></a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=romdhanimedali28&label=Profile%20views&color=0e75b6&style=flat" alt="romdhanimedali28" /> 
+</p>
