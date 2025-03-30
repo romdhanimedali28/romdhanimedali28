@@ -76,3 +76,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=medali28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="175" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=medali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph" />
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdikh&show_icons=true&locale=en&layout=compact" alt="hamdikh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdikh&show_icons=true&locale=en" alt="hamdikh" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdikh" alt="hamdikh" /></a> </p>
+
