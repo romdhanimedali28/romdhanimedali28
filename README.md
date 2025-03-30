@@ -74,9 +74,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romdhanimedali28 &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="175" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=romdhanimedali28 &hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="175" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=romdhanimedali28 &locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=romdhanimedali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph" />
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romdhanimedali28 " alt="romdhanimedali28 " /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romdhanimedali28" alt="romdhanimedali28" /></a> </p>
 
