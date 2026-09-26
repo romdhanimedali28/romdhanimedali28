@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Mohamed Ali Romdhani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Cloud+Computing+Student;DevOps+Enthusiast;Mobile+App+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;GitOps+%26+DevSecOps;Building+Secure+Cloud+Platforms)](https://git.io/typing-svg)
 
 <img align="left" src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <h3 align="left">👩‍💻 About Me :</h3>
 <img align="left" height="400" width="400" src="https://github.com/medali28/medali28/blob/main/images/ccd096d6c7ab4b9db327031f434ed056.jpeg" />
-<p align="left">👋 I'm Mohamed Ali Romdhani, a 23-year-old Cloud Computing student at ESPRIT in Tunisia. I'm passionate about DevOps practices, containerization, and infrastructure automation. I also enjoy mobile app development📱and AI (Artificial Intelligence)🧠. You'll often find me immersed in code or configuring cloud resources. 💻<br><br>I'm currently:<br><br>- 🔭 Studying Cloud Computing and expanding my DevOps skills<br>- 🌱 Learning Azure, OpenStack, and Kubernetes orchestration<br>- 💬 Working with Docker, K8s, Ansible, and Jenkins<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile!</p>
+<p align="left">👋 I'm Mohamed Ali Romdhani, a Cloud & DevOps Engineer from Tunisia, currently working at Web Works Rise. I design and operate secure, automated multi-environment AWS infrastructures, and I'm passionate about DevSecOps, GitOps, containerization, and infrastructure automation. I also enjoy mobile app development 📱 and AI/ML 🧠.<br><br>I'm currently:<br><br>- 🔭 Working as a Junior Cloud & DevOps Engineer at Web Works Rise, building infrastructure for a multi-service SaaS platform<br>- 🌱 Deepening my expertise in AWS, GitOps promotion strategies (Kargo), and Kubernetes security<br>- 💬 Working daily with Terraform, Ansible, Kubernetes (k0s/k3s), ArgoCD, Kargo, and GitHub Actions<br><br>When I'm not coding, you can catch me:<br><br>- 🎵 Listening to music<br>- 📺 Watching anime and series<br><br>Feel free to explore my projects and repositories. Thanks for visiting my profile!</p>
 
 <img align="left" src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /><br>
 
@@ -30,6 +30,10 @@
 ## 🛠️ Tech Stack
 
 <div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
+  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
@@ -38,11 +42,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="40" alt="openstack logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
@@ -63,6 +74,7 @@
 
 ## 📜 Certifications
 
+- ✅ AWS Academy Graduate - Cloud Operations
 - ✅ Docker Training Course (KodeKloud)
 - ✅ Kubernetes for the Absolute Beginners (KodeKloud)
 - ✅ Learn Ansible Basics (KodeKloud)
@@ -71,8 +83,10 @@
 
 ## 🚀 Featured Projects
 
-- 🌐 **OpenStack & K8s Infrastructure** - deployment with CI/CD pipeline
-- 📱 **ADAS System** - Advanced Driver Assistance System with AI detection
+- ☁️ **ROADZ SaaS Platform (Web Works Rise)** — Multi-environment AWS infrastructure (Terraform, Ansible, k0s/k3s) with a full DevSecOps pipeline (GitHub Actions, Checkov, Trivy, Semgrep, ZAP) and GitOps delivery via ArgoCD and Kargo
+- 🌐 **WebRTC Server on Azure (Smartech)** — Azure infrastructure with Terraform/Ansible, K3s cluster, ArgoCD GitOps, and full observability (Prometheus/Grafana)
+- 🏗️ **OpenStack & K8s Infrastructure** — Private cloud deployment with CI/CD pipeline (GitHub Actions, Ansible, Kubernetes)
+- 📱 **ADAS System** — Advanced Driver Assistance System with real-time road sign & hazard detection (YOLO, OpenCV, TensorFlow Lite on Raspberry Pi 4)
 
 <img src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
