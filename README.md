@@ -89,6 +89,7 @@
 - 📱 **ADAS System** — Advanced Driver Assistance System with real-time road sign & hazard detection (YOLO, OpenCV, TensorFlow Lite on Raspberry Pi 4)
 
 <img src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 📊 GitHub Stats
 
 <div align="center">
