@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <div align="left">
- <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="aws logo" />
+ <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
@@ -89,3 +89,13 @@
 - 📱 **ADAS System** — Advanced Driver Assistance System with real-time road sign & hazard detection (YOLO, OpenCV, TensorFlow Lite on Raspberry Pi 4)
 
 <img src="https://github.com/medali28/medali28/blob/main/images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romdhanimedali28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="175" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=romdhanimedali28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="175" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=romdhanimedali28&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph" />
+</div>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romdhanimedali28" alt="romdhanimedali28" /></a> </p>
